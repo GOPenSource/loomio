@@ -67,6 +67,8 @@ sl:
     settings_not_updated: "Nastavitve niso bile posodobljene."
     group_request_already_accepted: "To vabilo žal ni več veljavno ali pa je že bilo sprejeto."
     group_request_invalid_token: "Podatki za dostop so neveljavni."
+    group_private_or_not_found: "Skupine ni bilo mogoče najti. \n\nTa skupina je morda zaprta. Če ste od nekoga prejeli povezavo, ga prosite, da vas povabi vanjo."
+    group_already_setup: "Skupina, ki jo želite ustvariti, že obstaja."
     user_with_email_address_already_in_group: "Uporabnik s tem email naslovom že pripada tej skupini."
   alert:
     duplicate_email: "%{which_email} je že v skupini."
